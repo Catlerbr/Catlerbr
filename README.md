@@ -1,4 +1,5 @@
 ## Estudante de ADS
+# Atualmente estudando python.
 
 <!--
 **Catlerbr/Catlerbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
