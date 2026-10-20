@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" width="100%" alt="Banner animado">
+  <img src="Lo-fi window banner_ shooting stars loop.gif" width="100%" alt="Banner animado">
 </p>
 
 # Olá, eu sou o Miguel!
