@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner Miguel Renan">
+  <img src="banner.gif" width="100%" alt="Banner animado">
 </p>
 
 # Olá, eu sou o Miguel!
