@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner Miguel Renan">
+</p>
+
 # Olá, eu sou o Miguel!
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
