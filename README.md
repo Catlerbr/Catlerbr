@@ -27,11 +27,6 @@ Atualmente, estou aprofundando meus conhecimentos em Python por meio do CS50P, d
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white)
 
----
-
-### Estatísticas
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Catlerbr&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
